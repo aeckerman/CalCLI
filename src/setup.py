@@ -5,7 +5,7 @@ version = input("What is your Python version (example: 2, 3): ")
 print ("")
 
 os.system("pip"+str(version)+" install Click")
-os.system("echo 'alias calc=\"python"+str(version)+" ~/Calc/main.py\"' >> .bash_profile")
+os.system("echo 'alias calc=\"python"+str(version)+" ~/CalCLI/main.py\"' >> .bash_profile")
 
 print( "")
 print ("Setup complete!")

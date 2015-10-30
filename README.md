@@ -9,7 +9,7 @@ Run this in your terminal:
 ```
 cd ~
 git clone https://github.com/blubrackets/CalCLI.git
-python3(or python2) ~/CalCLI/setup.py
+python3(or python2) ~/CalCLI/src/setup.py
 ```
 
 If you dont have a .bash_profile for your terminal yet, before the installation above type:

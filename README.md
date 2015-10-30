@@ -24,3 +24,7 @@ Then restart your terminal/commandprompt and type:
 #Screenshot
 Like a good little boy I took a picture:<br />
 <img src="img/screenshot.png">
+
+#Contribute
+You'd like to join in on the fun eh?
+Ok thats cool just make a <a href="https://github.com/blubrackets/CalCLI/pulls">pull request</a>.

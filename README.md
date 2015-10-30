@@ -20,3 +20,7 @@ touch .bash_profile
 
 Then restart your terminal/commandprompt and type:
 `calc --help`
+
+#Screenshot
+Like a good little boy I took a picture:<br />
+<img src="img/screenshot.png">
